@@ -1,0 +1,7 @@
+#Ads.txt abc.com
+#last updated: 02/07/2023 1:23 PM PT
+OWNERDOMAIN=disneyJunior.com
+MANAGERDOMAIN=europemediamanager.com,EU
+telaria.com,i79zj-2gv5y,DIRECT,1a4e959a1b50034a #Magnite
+google.com, pub-9242135695870167, RESELLER, f08c47fec0942fa0 # Google
+pubmatic.com, 158001, RESELLER, 5d62403b186f2ace
